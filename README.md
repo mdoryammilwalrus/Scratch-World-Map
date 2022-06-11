@@ -1,4 +1,4 @@
 # Scratch World Map
 World Map, but for scratch.
 
-<iframe src="./demo"></iframe>
+Find a demo [here](examples/index.html)
