@@ -1,2 +1,2 @@
-# Scratch-World-Map
+# Scratch World Map
 World Map, but for scratch.
